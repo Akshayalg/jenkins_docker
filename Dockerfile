@@ -1,1 +1,1 @@
-From  tomcat
+FROM tomcat
